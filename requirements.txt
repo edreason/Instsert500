@@ -1,1 +1,10 @@
-Insert signal level / IO specs here...
+**Audio Inputs:**
+- Balanced line level input | Max +18dBu
+- Unbalanced inst level input | Max TBD
+
+**Audio Outputs:**
+- Balanced line level output | Max +18dBu
+- Unbalanced inst level output | Max TBD
+
+**Power Rails:**
+- 
